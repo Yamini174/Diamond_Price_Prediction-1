@@ -1,0 +1,32 @@
+
+DIAMOND PRICE PREDICTION DATASET
+
+Dataset Name: Diamonds Dataset
+
+Description:
+This dataset contains information about diamonds,
+including their physical characteristics, quality,
+and prices.
+
+Number of Records: 53,940
+Number of Columns: 10
+
+Column Descriptions:
+
+1. carat - Weight of the diamond.
+2. cut - Quality of the diamond cut.
+3. color - Diamond color grade.
+4. clarity - Diamond clarity grade.
+5. depth - Total depth percentage.
+6. table - Width of the diamond table.
+7. price - Price of the diamond in USD.
+8. x - Length in mm.
+9. y - Width in mm.
+10. z - Depth in mm.
+
+Target Variable: price
+
+Machine Learning Algorithm: KNN Regressor
+
+Objective:
+Predict diamond prices using machine learning.
